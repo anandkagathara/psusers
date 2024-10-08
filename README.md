@@ -33,5 +33,5 @@ Ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-repository.git
+git clone https://github.com/anandkagathara/psusers.git
 
